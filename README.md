@@ -1,5 +1,7 @@
 # SI_2023_lab2_213102
+
 Стефан Мрмов 213102
+
 2.Control Flow Graph
 
 ![image](https://github.com/StefanMrmov/SI_2023_lab2_213102/assets/126726164/b1def288-fb24-4194-9841-d6d96ce053c0)
