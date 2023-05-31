@@ -4,7 +4,7 @@
 
 2.Control Flow Graph
 
-![image](https://raw.github.com/StefanMrmov/SI_2023_lab2_213102/assets/126726164/a2b377ec-2ff5-44f0-8a97-e4cb86a9478b)
+![image](https://github.com/StefanMrmov/SI_2023_lab2_213102/assets/126726164/81e082e8-9a93-4f77-b40b-63aa6e0b1dd5)
 
 3.Цикломатската комплексност на дадениот код е 11, Ова може да го одредиме според бројот на региони во Control Flow Graph-от, кој изнесува 10+1.
 
@@ -21,8 +21,7 @@
 
 петтиот test case ако password да не е со празно место и да нема специјален знак, тогаш од for loop-от  ќе премине на return false.
 
-![image](https://raw.github.com/StefanMrmov/SI_2023_lab2_213102/assets/126726164/f0f45b96-e96e-44a9-b4d2-3e6a782a33cf)
-
+![image](https://github.com/StefanMrmov/SI_2023_lab2_213102/assets/126726164/7165fc82-db91-481f-8fc8-2c838a51c675)
 
 5.
 Според Multiple condition имаме 4 тест случаи
