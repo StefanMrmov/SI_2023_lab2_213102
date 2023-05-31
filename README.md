@@ -9,13 +9,18 @@
 
 4.
 има вкупно 5 test case-a
+
 првиот test case е exception
+
 вториот test case е ако username==null, password-от да има специјален карактер , email-от во првото поминување на for loop да не влезе во if-овите, а во вториот да влезе
+
 третиот test case ако username==password
+
 четвриот test case passwordot да е со празно место
+
 петтиот test case ако password да не е со празно место и да нема специјален знак, тогаш од for loop-от  ќе премине на return false.
 
-![image](https://github.com/StefanMrmov/SI_2023_lab2_213102/assets/126726164/0d76f439-c45c-4b93-9b9b-2a0e47cf733b)
+![image](https://github.com/StefanMrmov/SI_2023_lab2_213102/assets/126726164/831033a0-bef4-4396-ac76-c64b2881a85e)
 
 5.
 Според Multiple condition имаме 4 тест случаи
