@@ -1,8 +1,11 @@
 # SI_2023_lab2_213102
 Стефан Мрмов 213102
 2.Control Flow Graph
-![image](https://github.com/StefanMrmov/SI_2023_lab2_213102/assets/126726164/900c6506-2d34-4aa8-82d5-36a49dbbf547)
+
+![image](https://github.com/StefanMrmov/SI_2023_lab2_213102/assets/126726164/f8843a01-6f81-4812-8d72-c7fa7a9ce96e)
+
 3.Цикломатската комплексност на дадениот код е 11, Ова може да го одредиме според бројот на региони во Control Flow Graph-от, кој изнесува 10+1.
+
 4.
 има вкупно 5 test case-a
 првиот test case е exception
